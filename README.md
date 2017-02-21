@@ -19,4 +19,4 @@ The second premise, called *Social Factor* can be modulated with the keys **w** 
 
 The last premise, called *Fear Factor* can be modulated with the keys **e** (increase), **d** (decrease), **c** (set to zero).
 
-(https://pablo-benito.github.io/bird-predator-simulator/)
+https://pablo-benito.github.io/bird-predator-simulator/
