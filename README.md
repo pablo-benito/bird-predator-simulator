@@ -1,6 +1,6 @@
 # Bird-Predator simulator
 
-## A bird predator simulator, based on [p5js](http://p5js.org) library. 
+#### A bird predator simulator, based on [p5js](http://p5js.org) library. 
 
 
 There are three different elements: The *food* (black dot), the *predator* (white dot) and the *birds* (coloured triangles).
